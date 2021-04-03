@@ -1,5 +1,5 @@
 - Run the following command line instructions:
-    1. javac quine.java
-    2. java quine > output.txt
+    \1. javac quine.java
+    \2. java quine > output.txt
 - The above commands will create and save a file "output.txt" with the output of the code.
 - The source code and the output must be an exact match for this quine. 
