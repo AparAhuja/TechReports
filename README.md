@@ -1,2 +1,2 @@
-# TechReports
+# Tech_Reports
 Some reports on latest topics in computer science varying from quantum computing to network security.
