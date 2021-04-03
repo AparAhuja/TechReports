@@ -5,4 +5,4 @@
     1. javac quine.java
     2. java quine > output.txt
 - The above commands will create and save a file "output.txt" with the output of the code.
-- The source code and the output must be an exact match for this quine. 
+- The source code and the output match excatly for this quine. 
