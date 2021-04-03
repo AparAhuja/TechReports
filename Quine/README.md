@@ -1,4 +1,4 @@
-# A quine is a computer program which takes no input and produces a copy of its own source code as its only output. These are often known as "self-replicating programs".
+# A quine is a computer program which takes no input and produces a copy of its own source code as its only output.
 
 
 - Run the following command line instructions:
